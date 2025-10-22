@@ -820,3 +820,9 @@ appnexus.com, 16244, RESELLER
 app-stock.com, 256917, RESELLER
 inmobi.com, 0c8e054083954c68a45044396a1c3df8, RESELLER, 83e75a7ae333ca9d
 bidmachine.io, 113, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
+appnexus.com, 17779, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
+themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
