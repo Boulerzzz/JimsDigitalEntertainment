@@ -214,3 +214,7 @@ adform.com, 3400, RESELLER, 9f5210a2f0999e32
 
 pangleglobal.com, 5003501, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
+#DT
+
+fyber.com,238622,DIRECT,1ad675c9de6b5176
